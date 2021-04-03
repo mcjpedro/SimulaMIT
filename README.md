@@ -14,7 +14,7 @@ it to learn, do researchs or even joy.
 
 ## Archives
 Every code I used to do this application is diponible in Git repository with descritives comments. 
-Besides that I put togheter a manual to help the users. This app simulate the induction motor dinamic 
+Besides that I put together a manual to help the users. This app simulate the induction motor dinamic 
 behavior with three possibles tension inputs: Sinusoidal, Sinusoidal Pulse Width Modulation (SPWM) 
 and Space Vector Pulse Width Modulation (SVPWM).
 
