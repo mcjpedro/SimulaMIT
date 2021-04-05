@@ -2,8 +2,8 @@
 Matlab Applicantion: Induction Motor Dinamic Behavior
 
 ## Install APP
-To install the applicantion you run the Matlab, go to the APP tab, click on "Install APP" and select
-the "SimulaMIT.mlappinstall". Even, you can download all the routines files navigate (edit) and execute
+To install the applicantion run the Matlab, go to the APP tab, click on "Install APP" and select the
+"SimulaMIT.mlappinstall". Even, you can download all the routines files navigate (edit) and execute
 them directelly.
 
 ## Motivation
